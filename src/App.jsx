@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1 className='text-lg tex-indigo-500 text-center'>This is a Vite + React + Tailwind App!</h1>
+      <h1 className='text-center mt-4'>React + Tailwindcss in Vite</h1>
     </>
   )
 }
